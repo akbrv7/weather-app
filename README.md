@@ -31,4 +31,4 @@ python manage.py runserver
 
 ## Demo
 
-You can view the live demo at: [https://username.github.io/weather-app](https://username.github.io/weather-app)
+You can view the live demo at: [https://akbrv7.github.io/weather-app](https://akbrv7.github.io/weather-app)
